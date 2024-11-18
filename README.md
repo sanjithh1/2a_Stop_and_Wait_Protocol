@@ -1,6 +1,6 @@
 # EXP : 2a_Stop_and_Wait_Protocol
-## NAME : MOHAMED HAMEEM SAJITH J
-## REG NO : 212223240090
+## NAME : SANJITH R
+## REG NO : 212223230191
 ## AIM :
 To write a python program to perform stop and wait protocol
 
@@ -18,8 +18,8 @@ To write a python program to perform stop and wait protocol
 ### CLIENT :
 
 ```
-NAME: Mohamed Hameem Sajith J
-REG NO: 212223240090
+NAME: SANJITH R
+REG NO: 212223230191
 
 import socket
 s=socket.socket()
@@ -41,8 +41,8 @@ while True:
 ### SERVER :
 
 ```
-NAME: Mohamed Hameem Sajith J
-REG NO: 212223240090
+NAME: SANJITH R
+REG NO: 212223230191
 
 import socket
 s=socket.socket()
