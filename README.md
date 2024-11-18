@@ -1,4 +1,7 @@
-# 2a_Stop_and_Wait_Protocol
+# EXP : 2a_Stop_and_Wait_Protocol
+
+## NAME : MOHAMED HAMEEM SAJITH J
+## REG NO : 212223240090
 
 ## AIM :
 To write a python program to perform stop and wait protocol
